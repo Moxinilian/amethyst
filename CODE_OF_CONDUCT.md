@@ -19,17 +19,20 @@
 These are the policies for upholding our community's standards of conduct. If you feel that a thread needs moderation, please contact the [Amethyst moderation team][mod_team].
 
 1. Remarks that violate the Amethyst standards of conduct, including hateful, hurtful, oppressive, or exclusionary remarks, are not allowed. (Cursing in general is discouraged, and never tolerated if targeting another user, and never in a hateful manner.)
-2. Remarks that moderators find inappropriate, whether listed in the code of conduct or not, are also not allowed.
-3. Moderators will first respond to such remarks with a warning.
-4. If the warning is unheeded, the user will be "kicked," i.e., kicked out of the communication channel to cool off.
-5. If the user comes back and continues to make trouble, they will be banned, i.e., indefinitely excluded.
-6. Moderators may choose at their discretion to un-ban the user if it was a first offense and they offer the offended party a genuine apology.
-7. If a moderator bans someone and you think it was unjustified, please take it up with that moderator, or with a different moderator, **in private**. Complaints about bans in-channel are not allowed.
-8. Moderators, organization members, and anyone closely involved with the Amethyst project are held to a higher standard than other community members. If a moderator creates an inappropriate situation, they should expect less leeway than others.
+2. Interactions violating a cooldown request are not allowed (see below).
+3. Remarks that moderators find inappropriate, whether listed in the code of conduct or not, are also not allowed.
+4. Moderators will first respond to such remarks with a warning.
+5. If the warning is unheeded, the user will be "kicked," i.e., kicked out of the communication channel to cool off.
+6. If the user comes back and continues to make trouble, they will be banned, i.e., indefinitely excluded.
+7. Moderators may choose at their discretion to un-ban the user if it was a first offense and they offer the offended party a genuine apology.
+8. If a moderator bans someone and you think it was unjustified, please take it up with that moderator, or with a different moderator, **in private**. Complaints about bans in-channel are not allowed.
+9. Moderators, organization members, and anyone closely involved with the Amethyst project are held to a higher standard than other community members. If a moderator creates an inappropriate situation, they should expect less leeway than others.
 
 In the Amethyst community we strive to go the extra step to look out for each other. Don't just aim to be technically unimpeachable, try to be your best self. In particular, avoid flirting with offensive or sensitive issues, particularly if they're off-topic; this all too often leads to unnecessary fights, hurt feelings, and damaged trust; worse, it can drive people away from the community entirely.
 
 And if someone takes issue with something you said or did, resist the urge to be defensive. Just stop doing what it was they complained about and apologize. Even if you feel you were misinterpreted or unfairly accused, chances are good there was something you could've communicated better — remember that it's your responsibility to make your fellow Amethyst community members comfortable. Everyone wants to get along and we are all here first and foremost because we want to talk about making games. You will find that people will be eager to assume good intent and forgive as long as you earn their trust.
+
+Sometimes, external factors make some topics too inflammatory or counter-productive to be discussed in an official Amethyst public venue. The moderation team can, on a case to case basis, issue a cooldown request on a subject. Any public discussion of matters under cooldown is to be deleted immediately even if it otherwise respects the Code of Conduct. Deletion happens without warning, but is usually notified through private channels. In fact, discussion around such themes is only permitted in private, for example raising concern to moderators about a decision under cooldown can be done by contacting them via email. Topics under cooldown are available at [pending].
 
 The enforcement policies listed above apply to all official Amethyst venues; including all Amethyst Discord channels; GitHub repositories under amethyst; and the community forums at https://community.amethyst.rs
 
